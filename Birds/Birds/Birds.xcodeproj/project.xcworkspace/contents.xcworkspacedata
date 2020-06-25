@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/mymac/Desktop/Birds/Birds/ViewController.swift">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/mymac/Desktop/Birds/Birds/DragImageView.swift">
+   </FileRef>
+   <FileRef
+      location = "self:Birds.xcodeproj">
+   </FileRef>
+</Workspace>
